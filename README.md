@@ -1,6 +1,6 @@
 ###### I wonder what Star Wars reference should I put here 🤔
 
-TLDR - student, C++, gamedev, OpenGL/Vulkan
+TLDR - I like: C++, gamedev, OpenGL/Vulkan.
 
 Hi! My name is Mateusz Chłopek, I'm from Poland, Silesia.
 
