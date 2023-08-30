@@ -9,6 +9,10 @@ I've graduated from the Silesian University of Technology in Gliwice. I hope tha
 Here is my GitHub profile, you can find there some projects I am/was working on during my studies/free time.
 
 <!---
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OftenDeadKanji&layout=compact&theme=dark)
+-->
+
+<!---
 Oh, and look, some stats
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OftenDeadKanji&show_icons=true&theme=radical)
