@@ -4,16 +4,6 @@ TLDR - I like: C++, gamedev, OpenGL/Vulkan.
 
 Hi! My name is Mateusz Chłopek, I'm from Poland, Silesia.
 
-I've graduated from the Silesian University of Technology in Gliwice. I hope that in (near) future I will join the gamedev world as a programmer. I love creating games (as well as playing them!) and that's my dream. I aim at position like gameplay programmer as a begining but I would love to work on some graphic engines (low-level programming - OpenGL or Vulkan).
+Currently I'm working at **Code Horizon** as a game programmer. I've graduated from the Silesian University of Technology in Gliwice. I love creating games and playing with low-level computer graphics - OpenGL/DirectX (although I'm still a beginner). In my free time I'm working on renderers or simple games in Unity or Unreal - all of that to gain even more experience.
 
-Here is my GitHub profile, you can find there some projects I am/was working on during my studies/free time.
-
-<!---
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OftenDeadKanji&layout=compact&theme=dark)
--->
-
-<!---
-Oh, and look, some stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OftenDeadKanji&show_icons=true&theme=radical)
--->
+Here is my GitHub profile, you can find there some projects I am or was working on during my studies/free time.
